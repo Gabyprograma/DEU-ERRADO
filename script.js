@@ -7,7 +7,7 @@ function sim() {
 
     mensagem.innerHTML = `
         Você realmente clicou KKKKK 😂<br><br>
-        <strong>Te amo, minha viada 💜</strong>
+        <strong>Te amo, viad@ 💜</strong>
     `;
 
     botoes.innerHTML = `
@@ -31,7 +31,7 @@ function nao() {
 }
 
 function voltar() {
-    titulo.textContent = "Caixinha da Vivi 💜";
+    titulo.textContent = "Caixinha";
     mensagem.textContent = "Quer ver? 👀";
 
     botoes.innerHTML = `

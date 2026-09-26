@@ -7,7 +7,7 @@ function sim() {
 
     mensagem.innerHTML = `
         Você realmente clicou KKKKK 😂<br><br>
-        <strong>Te amo, viad@ 💜</strong>
+        <strong>Te amo, viado💜</strong>
     `;
 
     botoes.innerHTML = `
